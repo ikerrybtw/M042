@@ -1,4 +1,4 @@
-% script to read all SVS files and save them
+% script to read all SVS files and save them as .png images
 % loops over data directory and calls readSVS
 prefix = 'data/';
 extension = '.png';
